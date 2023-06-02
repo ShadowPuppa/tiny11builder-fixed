@@ -8,6 +8,8 @@ It's open-source, so feel free to add or remove anything you want! Feedback is a
 
 As of now, only build 22621.525 (the one that can be downloaded from the Microsoft website), 22621.1265 (the latest public build) and 25300 (latest Insider build as of now) are supported.
 
+Please note that some logging functionality has been removed
+
 Instructions:
 
 1. Download Windows 11 22621.1265 from UUPDump or 22621.525 or 25300 from the Microsoft website (<https://www.microsoft.com/software-download/windows11>)
